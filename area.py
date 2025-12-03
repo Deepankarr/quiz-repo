@@ -5,3 +5,4 @@ solution = (math.pi * x * x)
 
 print (f"The area of your cirlce is {round(solution, 2)}")
 
+print ("This is how you get the area")
